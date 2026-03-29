@@ -1,0 +1,9 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/kavee137/ECA-api-gateway.git
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/kavee137/ECA-config-server.git
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/kavee137/ECA-eureka-server.git
